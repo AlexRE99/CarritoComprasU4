@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name": "Xbox One S 500GB",
+        "author":"",
+        "price":199,
+        "img":"https://assets.sams.com.mx/image/upload/f_auto,q_auto:eco,w_350,c_scale,dpr_auto/mx/images/product-images/img_medium/980006691m.jpg",
+        "quanty": 1
+    },
+    {
+        "id":2,
+        "name": "Xbox One X | Gears of War 5",
+        "author":"",
+        "price":299,
+        "img":"https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/889842477771_3.jpg?scale=500&qlty=75",
+        "quanty": 1
+    },
+    {
+        "id":3,
+        "name": "Xbox One Series S 1 TB",
+        "author":"",
+        "price":399,
+        "img":"https://elektra.vtexassets.com/arquivos/ids/4046190-800-450?v=638338416969870000&width=800&height=450&aspect=true",
+        "quanty": 1
+    },
+    {
+        "id":4,
+        "name": "Xbox One Series X | Halo Infinite",
+        "author":"",
+        "price":499,
+        "img":"https://http2.mlstatic.com/D_NQ_NP_940662-MLA48680897602_122021-O.webp",
+        "quanty": 1
+    }
+]
